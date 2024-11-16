@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen_semana13_b</string>
+
+    <string name="title_activity_ejercicio01">Ejercicio01</string>
+    <string name="profile_image_desc">Imagen de perfil</string>
+    <string name="icon_name_desc">Ícono de nombre</string>
+    <string name="icon_phone_desc">Ícono de teléfono</string>
+    <string name="icon_email_desc">Ícono de correo</string>
+
+
+</resources>
